@@ -8,3 +8,4 @@ class Node:
 
 root = Node(10)
 root.PrintTree()
+
